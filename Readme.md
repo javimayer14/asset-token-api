@@ -1,5 +1,5 @@
  
-# Asset token project
+# Asset token project 🏢💰 🔒
 
 This project consists of tokenizing real life assets.
 Allows the user to buy and sell tokens of projects created on the ethereum blockchain
