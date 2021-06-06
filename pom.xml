@@ -9,8 +9,8 @@
 		<version>2.4.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.base.project</groupId>
-	<artifactId>base</artifactId>
+	<groupId>com.token.project</groupId>
+	<artifactId>asset-token-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>asset-token-api</name>
 	<description>proyecto base con login</description>

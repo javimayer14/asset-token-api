@@ -1,4 +1,4 @@
-package com.base.project.service;
+package com.token.project.service;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -14,8 +14,8 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.base.project.dao.IUserDao;
-import com.base.project.model.User;
+import com.token.project.dao.IUserDao;
+import com.token.project.model.User;
 
 @Service
 public class UserService implements UserDetailsService, IUserService {

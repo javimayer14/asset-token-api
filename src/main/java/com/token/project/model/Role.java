@@ -1,4 +1,4 @@
-package com.base.project.model;
+package com.token.project.model;
 
 import java.io.Serializable;
 
